@@ -1,0 +1,9 @@
+data/0000000-imgL.ppm
+data/0000001-imgL.ppm
+data/0000002-imgL.ppm
+data/0000003-imgL.ppm
+data/0000004-imgL.ppm
+data/0000005-imgL.ppm
+data/0000006-imgL.ppm
+data/0000007-imgL.ppm
+data/0000008-imgL.ppm

@@ -1,0 +1,9 @@
+data/0000000-gt.pfm
+data/0000001-gt.pfm
+data/0000002-gt.pfm
+data/0000003-gt.pfm
+data/0000004-gt.pfm
+data/0000005-gt.pfm
+data/0000006-gt.pfm
+data/0000007-gt.pfm
+data/0000008-gt.pfm
